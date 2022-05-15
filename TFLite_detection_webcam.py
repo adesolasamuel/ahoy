@@ -13,8 +13,7 @@
 #
 # I added my own method of drawing boxes and labels using OpenCV.
 # 
-# Modified by: Shawn Hymel
-# Date: 09/22/20
+# Modified by: Adesola Samuel
 # Description:
 # Added ability to resize cv2 window and added center dot coordinates of each detected object.
 # Objects and center coordinates are printed to console.
